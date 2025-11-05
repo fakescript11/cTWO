@@ -1,0 +1,39 @@
+Execution Results - 2025-11-05T18:06:36.052Z
+============================================================
+
+[1] Command: whoami
+Status: SUCCESS
+Output:
+slash\slash
+
+------------------------------------------------------------
+
+[2] Command: dir
+Status: SUCCESS
+Output:
+ Volume in drive C has no label.
+ Volume Serial Number is C2B4-9FA0
+
+ Directory of C:\Users\slash\Desktop\c2\node
+
+05.11.2025  22:03    <DIR>          .
+05.11.2025  21:40    <DIR>          ..
+05.11.2025  22:06             6.866 app.js
+05.11.2025  21:54    <DIR>          node_modules
+05.11.2025  21:54            20.251 package-lock.json
+05.11.2025  21:54               369 package.json
+               3 File(s)         27.486 bytes
+               3 Dir(s)  296.222.089.216 bytes free
+
+------------------------------------------------------------
+
+[3] Command: pwd
+Status: FAILED
+Error: Command failed: pwd
+'pwd' is not recognized as an internal or external command,
+operable program or batch file.
+
+Output:
+
+------------------------------------------------------------
+
