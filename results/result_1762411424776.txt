@@ -1,0 +1,43 @@
+Execution Results - 2025-11-06T06:43:44.776Z
+============================================================
+
+[1] Command: dir
+Status: SUCCESS
+Output:
+ Volume in drive C has no label.
+ Volume Serial Number is C2B4-9FA0
+
+ Directory of C:\Users\slash\AppData\Local\Programs\Microsoft VS Code
+
+19.10.2025  22:10    <DIR>          .
+21.09.2025  13:00    <DIR>          ..
+16.10.2025  00:39    <DIR>          appx
+16.10.2025  00:39    <DIR>          bin
+14.10.2025  23:06           167.282 chrome_100_percent.pak
+14.10.2025  23:06           258.304 chrome_200_percent.pak
+14.10.2025  23:10       197.418.040 Code.exe
+14.10.2025  23:05               367 Code.VisualElementsManifest.xml
+14.10.2025  23:08         4.927.032 d3dcompiler_47.dll
+14.10.2025  23:09         2.884.128 ffmpeg.dll
+14.10.2025  23:06        10.467.680 icudtl.dat
+14.10.2025  23:08           515.616 libEGL.dll
+14.10.2025  23:09         8.059.960 libGLESv2.dll
+14.10.2025  23:06        15.092.913 LICENSES.chromium.html
+16.10.2025  00:39    <DIR>          locales
+16.10.2025  00:39    <DIR>          policies
+16.10.2025  00:39    <DIR>          resources
+14.10.2025  23:06         5.836.851 resources.pak
+14.10.2025  23:06           321.542 snapshot_blob.bin
+16.10.2025  00:39    <DIR>          tools
+19.10.2025  22:10         1.622.921 unins000.dat
+16.10.2025  00:39         3.494.984 unins000.exe
+16.10.2025  00:39            24.367 unins000.msg
+14.10.2025  23:06           699.577 v8_context_snapshot.bin
+14.10.2025  23:08         5.540.896 vk_swiftshader.dll
+14.10.2025  23:06               106 vk_swiftshader_icd.json
+14.10.2025  23:09           932.408 vulkan-1.dll
+              19 File(s)    258.264.974 bytes
+               8 Dir(s)  296.641.507.328 bytes free
+
+------------------------------------------------------------
+
